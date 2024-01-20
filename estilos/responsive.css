@@ -19,7 +19,7 @@
     }
 
     .herosection1 .content_herosection1 {
-        margin-top: 10px;
+        margin-top: 20px;
         margin-left:30px;
         
     }
@@ -28,6 +28,10 @@
         margin-top: 30px;
     }
 
-    
+    .herosection {
+        height: 600px;
+    }
+
+
 }
 
