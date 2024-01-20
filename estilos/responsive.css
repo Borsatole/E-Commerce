@@ -1,0 +1,33 @@
+@charset "UTF-8";
+
+/* BreakPoints */
+/* celular:600px */
+
+@media (max-width:600px) {
+
+    .herosection {
+        flex-direction: column;
+    }
+
+    .herosection1, .herosection2 {
+        width: 100%;
+        margin:0px;
+    }
+
+    .herosection2 {
+        margin-top:5px;
+    }
+
+    .herosection1 .content_herosection1 {
+        margin-top: 10px;
+        margin-left:30px;
+        
+    }
+
+    .herosection1 .content_herosection1 button{
+        margin-top: 30px;
+    }
+
+    
+}
+
