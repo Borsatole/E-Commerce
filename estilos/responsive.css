@@ -5,6 +5,10 @@
 
 @media (max-width:600px) {
 
+    header menu {
+        display: none;
+    }
+
     .herosection {
         flex-direction: column;
     }
@@ -30,6 +34,22 @@
 
     .herosection {
         height: 600px;
+    }
+
+    .content1_herosection2 p{
+        font-size: 15px;
+        
+    }
+
+    .content1_herosection2 button{
+        margin-top: 10px;
+        margin-left: 200px;
+    }
+
+
+    .content1_herosection2 img{
+        max-width: 80%;
+        
     }
 
 
